@@ -2,6 +2,7 @@
 
 This project is an **IPL Win Probability Prediction System** that estimates the real-time chances of winning for both teams during an IPL match. The model is built using **Logistic Regression** and implemented through a **Scikit-learn Pipeline**, ensuring clean preprocessing, scalability, and reliable predictions. The application dynamically updates win probabilities based on live match conditions.
 
+**APP LINK:https://cricpredapp.streamlit.app/**
 ---
 
 ## 📌 1. Project Objective
